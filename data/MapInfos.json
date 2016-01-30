@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"expanded":true,"name":"自宅周辺","order":4,"parentId":2,"scrollX":555.5,"scrollY":640.5},
+{"id":2,"expanded":true,"name":"自宅","order":3,"parentId":0,"scrollX":563.5,"scrollY":415.5},
+{"id":3,"expanded":true,"name":"村までの道","order":5,"parentId":1,"scrollX":563.5,"scrollY":415.5},
+{"id":4,"expanded":true,"name":"名前変更","order":1,"parentId":0,"scrollX":563.5,"scrollY":415.5},
+{"id":5,"expanded":false,"name":"CG回想","order":2,"parentId":4,"scrollX":563.5,"scrollY":415.5},
+{"id":6,"expanded":true,"name":"牢屋","order":6,"parentId":0,"scrollX":884.5,"scrollY":743.5}
+]
